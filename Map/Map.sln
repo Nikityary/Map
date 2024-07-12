@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{184D3498-F2A9-4C37-9C8B-A913CEBCB94D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Изображения", "Изображения", "{190DE237-793A-4D04-9204-BA99DF235128}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\Рондо.jpg = ..\..\Downloads\Рондо.jpg
+		..\..\Downloads\Парамо.jpg = ..\..\Downloads\Парамо.jpg
+		..\..\Downloads\Каракин.jpg = ..\..\Downloads\Каракин.jpg
+		..\..\Downloads\Мирамар.jpg = ..\..\Downloads\Мирамар.jpg
+		..\..\Downloads\Дестон.jpg = ..\..\Downloads\Дестон.jpg
+		..\..\Downloads\Викенди.jpg = ..\..\Downloads\Викенди.jpg
+		..\..\Downloads\Санок.jpg = ..\..\Downloads\Санок.jpg
+		..\..\Downloads\Эрангель.jpg = ..\..\Downloads\Эрангель.jpg
+		..\..\Downloads\Таэго.jpg = ..\..\Downloads\Таэго.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184D3498-F2A9-4C37-9C8B-A913CEBCB94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184D3498-F2A9-4C37-9C8B-A913CEBCB94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184D3498-F2A9-4C37-9C8B-A913CEBCB94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184D3498-F2A9-4C37-9C8B-A913CEBCB94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA3E1FD-6203-479B-AA20-9A9C34AB77FB}
+	EndGlobalSection
+EndGlobal
